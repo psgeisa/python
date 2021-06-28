@@ -4,8 +4,8 @@ lista_nums = [100, 200, 300, 400]
 for item in lista_nums:
 print(item)
 
-
 """
+
 #operando com índice
 lista_nums = [100, 200, 300, 400]
 lista_indice = [0, 1, 2, 3]
