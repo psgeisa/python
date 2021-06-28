@@ -1,17 +1,4 @@
-"""
-num1 = int(input("Digite um numero: "))
 
-if (num1>10):
-    print("o número %d é maior do que 10")
-else:
-    if (num1>5):
-        print("o numero é maior do que 5")
-    else:
-        if (num1==7):
-            print("o numero é igual a 7")
-        else:
-            print("o valor é menor que 5")
-"""
 #declaração das variáveis
 a = 1
 b = 2
