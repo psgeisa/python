@@ -16,6 +16,7 @@ a, b = func()
 print(a)
 print(b)
 """
+
 def potencia(x):
     quadrado = x**2
     cubo = x**3
