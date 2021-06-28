@@ -1,29 +1,3 @@
-'''
-idade = int(input("Digite sua idade: "))
-
-if (idade<=0):
-    print("Não pode ser!")
-else:
-    if (idade>150):
-        print("Ta brincando?!")
-    else:
-        if (idade<18):
-            print("Você precisa ser maior de 18")
-        else:
-            print("ok")
-#OU
-
-idade = int(input("Digite sua idade: "))
-
-if (idade<=0):
-    print("Não pode ser!")
-elif (idade>150):
-     print("Ta brincando?!")
-elif (idade<18):
-     print("Você precisa ser maior de 18")
-else:
-     print("ok")
-'''
 
 num1 = int(input("Digite um numero:"))
 num2 = int(input("Digite um numero:"))
