@@ -1,4 +1,5 @@
 lista = ["Geisa", "Gisele", "Bruno", "Gilberto", "Thazila","Theo"]
+
 print(len(lista)) #contagem de elementos da lista
 print(len(lista[0])) #contagem de dígitos do 4º elemento da lista
 print(lista[len(lista)-1]) #acesso ao último elemento da lista
