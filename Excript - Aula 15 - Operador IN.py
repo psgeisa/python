@@ -1,22 +1,3 @@
-
-"""
-a = 10
-b = 25
-c = 66
-x = int(input("digite um numero:" ))
-
-if(x == a or x == b or x == c):
-    print("o numero está contido nos meus parâmetros")
-else:
-    print("o numero não está contido nos meus parâmetros")
-
-#ou
-
-if(x in [a, b, c]):
-    print("o numero está contido nos meus parâmetros")
-else:
-    print("o numero não está contido nos meus parâmetros")
-"""
 cores = ["azul", "amarelo", "vermelho", "branco"]
 
 #Loop
